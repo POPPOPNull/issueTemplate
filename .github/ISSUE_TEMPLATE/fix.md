@@ -1,7 +1,7 @@
 ---
 name: Fix
 about: Fix codes
-title: ''
+title: "[Fix]"
 labels: ''
 assignees: ''
 
